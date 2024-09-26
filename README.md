@@ -21,19 +21,3 @@ Occupation: CISO (Chief Information Security Officer)
 
 Company: Large Healthcare Provider (Mayo Clinic)
 
-Goals: 
-
-Identify and mitigate security vulnerabilities before they can be exploited
-Ensure compliance with HIPAA regulations
-
-Challenges:
-
-Keeping up with the large volume of security alerts and threat intelligence.
-Detecting anomalous employee behaviors that may signal insider threats or compromised accounts.
-Dealing with the complexity of patching and vulnerability management across numerous systems.
-
-Needs:
-
-A tool that helps him prioritize which vulnerabilities or threats to tackle first.
-Insights on external threats (dark web activity, phishing campaigns) targeting healthcare data.
-Automation in monitoring and identifying high-risk behavior patterns within the organization.
